@@ -79,4 +79,4 @@ info:
   company.name: www.tqym.com
   build.artifactId: @project.artifactId@
   build.version: @project.version@
-#  请保存为UTF-8格式
+#请保存为UTF-8格式
