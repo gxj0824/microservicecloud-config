@@ -21,7 +21,7 @@ server:
 spring:
   profiles: test  #测试环境
   application:
-    name: microservicecloud-config-tqym-test
+    name: microservicecloud-config-client
 
 eureka:
   client:
