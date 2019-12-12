@@ -77,6 +77,6 @@ eureka:
 info:
   app.name: tqym-microservicecloud-springcloudconfig01
   company.name: www.tqym.com
-  build.artifactId: @project.artifactId@
-  build.version: @project.version@
+  build.artifactId: microservicecloud_config_dept_client_8001
+  build.version: 1.0-SNAPSHOT
 #请保存为UTF-8格式
